@@ -7,4 +7,4 @@
 - **Issued:** 13 August 2026
 - **Credential ID:** `THM-T756UJSGXS`
 - **Challenge:** Byte Lotus
-- **Credential:** [View Certificate](YOUR_CREDENTIAL_URL)
+- **Credential:** [View Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-T756UJSGXS.pdf)
